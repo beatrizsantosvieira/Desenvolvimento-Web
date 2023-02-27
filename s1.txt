@@ -1,0 +1,10 @@
+md
+python: https://www.python.org/ - Linguagem para Desenvolvimento Back-End. Desenvolvedores web podem usar códigos Python para transferir dados de/para servidores, interagir com bancos de dados e administrar a segurança de um site.
+
+git: https://git-scm.com/ - GIT usa um modelo de dados que ajuda a garantir a integridade criptográfica de qualquer coisa presente dentro de um repositório.
+
+vscode: https://code.visualstudio.com/ - Editor de código-fonte. Ele inclui suporte para depuração, controle de versionamento Git incorporado, realce de sintaxe, complementação inteligente de código, snippets e refatoração de código.
+
+sqlite browser: https://sqlitebrowser.org/ - Aplicativo que permite visualizar, editar e executar scripts SQL em banco de dados Oracle, ODBC e SQL Server. Com ele é possível navegar ou alterar dados, executar scripts, exportar e imprimir dados e muito mais. Ideal para programadores, o software é totalmente gratuito.
+
+navegadores: https://www.google.com/ - Um navegador de rede, navegador web, navegador da internet ou simplesmente navegador, é um programa que habilita seus usuários a interagirem com documentos HTML hospedados em um servidor da rede.
