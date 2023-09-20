@@ -1,0 +1,11 @@
+var primeira = 1;
+let segunda = "casa";
+const terceira = [1, 2, "nada"];
+
+console.log("segunda: " + segunda);
+segunda = "banana";
+console.log("segunda: " + segunda);
+
+console.log("terceira: " + terceira);
+terceira.push ("morango");
+console.log("terceira: " + terceira);
