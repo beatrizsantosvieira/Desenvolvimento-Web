@@ -1,6 +1,6 @@
 *{
-    background-color: black;
-    color: white;
+    background-color: rgb(255, 237, 205);
+    color: rgb(36, 36, 37);
 }
 #detalhes{
     display: flex;
@@ -14,11 +14,11 @@ h2{
 }
 
 img{
-    width: 250px;
+    width: 300px;
 }
 
 .informacoes{
-    text-align: left;
+    text-align: center;
 }
 
 #div-informacoes{
@@ -31,9 +31,9 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    border-radius: 10px;
-    background-color: gray;
-    margin-top: 10px;
+    border-radius: 20px;
+    background-color: rgb(23, 23, 68);
+    margin-top: 20px;
 }
 
 #div-botao{
