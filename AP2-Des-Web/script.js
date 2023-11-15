@@ -42,5 +42,5 @@ function salvarInformacoes(indiceJogador) {
     localStorage.setItem('@Altura', jogador.altura);
 
 
-    window.location.href = './saibamais.html'
+    window.location.href = './moreinfo.html'
 }
